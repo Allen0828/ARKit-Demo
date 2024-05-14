@@ -8,7 +8,7 @@ ARKit example
 <view>
     
 <img src="https://github.com/Allen0828/ARKit/blob/main/imgs/metal_orientation.jpeg" width="300"></img>
-<img src="https://github.com/Allen0828/ARKit/blob/main/imgs/metal.jpeg" width="200"></img> 
+<img src="https://github.com/Allen0828/Metal/blob/main/images/metal-2-3.png" width="200"></img> 
 
 </view>
 
